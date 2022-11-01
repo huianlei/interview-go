@@ -27,7 +27,7 @@
 
 - 覆盖索引
 - 回表
-- 索引数据结构（B+树）
+- 索引数据结构（B+树）[了解B树，B+树](https://cloud.tencent.com/developer/article/1691641)
 - 最左前缀原则
 - 索引下推
 
